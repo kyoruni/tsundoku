@@ -1,0 +1,30 @@
+## 2022年に読んだ本
+- [Vue3 フロントエンド開発の教科書](https://github.com/kyoruni/tsundoku/issues/32)
+- [「技術書」の読書術](https://github.com/kyoruni/tsundoku/issues/35)
+- [Obsidianでつなげる情報管理術](https://github.com/kyoruni/tsundoku/issues/60)
+- [エンジニアのための見積もり実践入門](https://github.com/kyoruni/tsundoku/issues/59)
+- [どんな仕事も「25分＋5分」で結果が出る ポモドーロ・テクニック入門](https://github.com/kyoruni/tsundoku/issues/58)
+- [SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版](https://github.com/kyoruni/tsundoku/issues/57)
+- [本当の自由を手に入れる お金の大学](https://github.com/kyoruni/tsundoku/issues/56)
+- [Vue.jsのツボとコツがゼッタイにわかる本](https://github.com/kyoruni/tsundoku/issues/55)
+- [リーダブルコード](https://github.com/kyoruni/tsundoku/issues/54)
+- [Webを支える技術](https://github.com/kyoruni/tsundoku/issues/53)
+- [転職2.0 日本人のキャリアの新・ルール](https://github.com/kyoruni/tsundoku/issues/52)
+- [改訂5版】図解でよくわかる ネットワークの重要用語解説](https://github.com/kyoruni/tsundoku/issues/51)
+- [スーパーステップ中学英文法](https://github.com/kyoruni/tsundoku/issues/50)
+- [エンジニアのための文章術再入門講座](https://github.com/kyoruni/tsundoku/issues/49)
+- [教育費をどうしようかな」と思ったときにまず読む本](https://github.com/kyoruni/tsundoku/issues/48)
+
+## 2021年に読んだ本
+- [SQL 第2版 ゼロからはじめるデータベース操作](https://github.com/kyoruni/tsundoku/issues/47)
+- [「家を買おうかな」と思ったときにまず読む本](https://github.com/kyoruni/tsundoku/issues/46)
+- [動かして学ぶ！Laravel 開発入門](https://github.com/kyoruni/tsundoku/issues/45)
+- [「保険に入ろうかな」と思ったときにまず読む本](https://github.com/kyoruni/tsundoku/issues/44)
+- [AWS認定資格試験テキスト AWS認定 クラウドプラクティショナー](https://github.com/kyoruni/tsundoku/issues/43)
+- [さわって学ぶクラウドインフラ docker 基礎からのコンテナ構築](https://github.com/kyoruni/tsundoku/issues/42)
+- [イラスト図解式 この一冊で全部わかるサーバーの基本](https://github.com/kyoruni/tsundoku/issues/41)
+
+## 2020年に読んだ本
+- [Linuxの絵本 サーバーOSが楽しくわかる9つの扉](https://github.com/kyoruni/tsundoku/issues/40)
+- [Amazon Web Services 基礎からのネットワーク&サーバー構築 改訂3版](https://github.com/kyoruni/tsundoku/issues/39)
+- [1週間でLPICの基礎が学べる本 第3版](https://github.com/kyoruni/tsundoku/issues/38)
