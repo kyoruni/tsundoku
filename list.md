@@ -10,7 +10,7 @@
 - [リーダブルコード](https://github.com/kyoruni/tsundoku/issues/54)
 - [Webを支える技術](https://github.com/kyoruni/tsundoku/issues/53)
 - [転職2.0 日本人のキャリアの新・ルール](https://github.com/kyoruni/tsundoku/issues/52)
-- [改訂5版】図解でよくわかる ネットワークの重要用語解説](https://github.com/kyoruni/tsundoku/issues/51)
+- [【改訂5版】図解でよくわかる ネットワークの重要用語解説](https://github.com/kyoruni/tsundoku/issues/51)
 - [スーパーステップ中学英文法](https://github.com/kyoruni/tsundoku/issues/50)
 - [エンジニアのための文章術再入門講座](https://github.com/kyoruni/tsundoku/issues/49)
 - [教育費をどうしようかな」と思ったときにまず読む本](https://github.com/kyoruni/tsundoku/issues/48)
